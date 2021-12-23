@@ -5,7 +5,7 @@
 
 #### - 🔭 I’m currently working on Some Data-Science , Machine-Learning,Deep-Learning and NLP Projects
 #### - 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
-#### - 👯 I’m looking to collaborate on Building some fair Ai project and Helping You In You Python,Sklearn,Tensorflow,Keras,Computer Vision etc Projects and bootcamp and college Assigments
+#### - 👯 I’m looking to collaborate With You on Building some fair AI projects and Helping You With Your Python,Sklearn,Tensorflow,Keras,Computer Vision Projects And Your Bootcamp And College Assigments
 <!--- 🤔 I’m looking for help with -->
 #### - 💬 Ask me about anything Related to these Fields listed above.⚡⚡⚡⚡⚡⚡
 
@@ -17,7 +17,7 @@
 - Facebook : https://www.facebook.com/josaphat.bitingo
 - IG : @bitingojosaphat
 - Twitter : @JosaphatBiting3
-- 
+
 #### -😄 Hobbies:
 - Coding
 - Reading
