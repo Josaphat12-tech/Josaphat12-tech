@@ -3,9 +3,9 @@
 
 Here are Some Facts To Know Me:
 
-#### - 🔭 I’m currently working on Some Data Science , ML,Deep Learning and NLP Projects
-#### - 🌱 I’m currently learning data science, Machine Learning, Deep Learning etc...
-#### - 👯 I’m looking to collaborate on Building some fair Ai project and Helping You In You python,scklearn,tensorflow,keras,Computer Vision etc Projects and bootcamp and college Assigments
+#### - 🔭 I’m currently working on Some Data-Science , Machine-Learning,Deep-Learning and NLP Projects
+#### - 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
+#### - 👯 I’m looking to collaborate on Building some fair Ai project and Helping You In You Python,Sklearn,Tensorflow,Keras,Computer Vision etc Projects and bootcamp and college Assigments
 <!--- 🤔 I’m looking for help with -->
 #### - 💬 Ask me about anything Related to these Fields listed above.⚡⚡⚡⚡⚡⚡
 #### -📫 How to reach me:
@@ -24,3 +24,6 @@ Here are Some Facts To Know Me:
 #### - ⚡ Fun facts: 
 - War is God’s way of teaching Americans geography.😄😄😄
 - My favorite machine at the gym is the vending machine 😄😄😄
+
+
+# 👋😄😄😄Welcome To My GitHub Account ⚡⚡⚡⚡⚡⚡
