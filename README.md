@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Feel Free To call Me Bitingo Josaphat JB 👋
 
-Here are some ideas to get you started:
+Here are Some Facts To Know Me:
 
 #### - 🔭 I’m currently working on Some Data Science , ML,Deep Learning and NLP Projects
 #### - 🌱 I’m currently learning data science, Machine Learning, Deep Learning etc...
