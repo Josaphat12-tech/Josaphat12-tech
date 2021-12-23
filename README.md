@@ -16,7 +16,7 @@
 - Linkedin : https://www.linkedin.com/in/josaphat-bitingo-b8684a1b9/
 - Facebook : https://www.facebook.com/josaphat.bitingo
 - IG : @bitingojosaphat
-- Twitter : @JosaphatBitng3
+- Twitter : @JosaphatBiting3
 - 
 #### -😄 Hobbies:
 - Coding
