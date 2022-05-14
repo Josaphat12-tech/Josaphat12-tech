@@ -3,7 +3,7 @@
 
 ##### Here are Some Facts To Know Me 🤔🤔🤔🤔
 
-#### - 🔭 I’m currently working on Some BLockchain Technology Project,Cryptocurrency,Data-Science , Machine-Learning,Deep-Learning and NLP Projects
+#### - 🔭 I’m currently working on Some BLockchain Technology Projects,Cryptocurrency,Data-Science , Machine-Learning,Deep-Learning and NLP Projects
 #### - 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
 #### - 👯 I’m looking to collaborate With You on Building some fair AI projects and Helping You With Your Python,Sklearn,Tensorflow,Keras,Computer Vision Projects And Your Bootcamp And College Assigments
 <!--- 🤔 I’m looking for help with -->
