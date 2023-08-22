@@ -13,6 +13,10 @@
 - Email : bitingojosaphat@gmail.com
 - WhatsApp : +256703595423
 - RemoteHub : https://www.remotehub.com/josaphat.bitingo
+- Blog sites :
+  * https://bitingo-the-deep-neural-nets.hashnode.dev/
+  * https://bitingo-the-deep-neural-nets-mater.blogspot.com/
+
 - Linkedin : https://www.linkedin.com/in/josaphat-bitingo-b8684a1b9/
 - Facebook : https://www.facebook.com/josaphat.bitingo
 - IG : @bitingojosaphat
