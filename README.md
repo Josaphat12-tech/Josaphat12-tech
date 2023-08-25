@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Feel Free To call Me Bitingo Josaphat JB 👋
 
-##### Here are Some Facts To Know Me 🤔🤔🤔🤔
+##### Here are Some Facts To Know about Me 🤔🤔🤔🤔
 
 #### - 🔭 I’m currently working on Some BLockchain Technology Projects,Cryptocurrency,Data-Science , Machine-Learning,Deep-Learning and NLP Projects
 #### - 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
