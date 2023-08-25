@@ -1,15 +1,14 @@
-### Hi there 👋
-#### Feel Free To call Me Bitingo Josaphat JB 👋
+###### Hola there👋, Feel Free To call Me Bitingo Josaphat JB 👨‍💻
 
-##### Here are Some Facts To Know about Me 🤔🤔🤔🤔
+### Here are Some Facts To Know about Me :
 
-#### - 🔭 I’m currently working on Some BLockchain Technology Projects,Cryptocurrency,Data-Science , Machine-Learning,Deep-Learning and NLP Projects
-#### - 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
-#### - 👯 I’m looking to collaborate With You on Building some fair AI projects and Helping You With Your Python,Sklearn,Tensorflow,Keras,Computer Vision Projects And Your Bootcamp And College Assigments
+- 🔭 I’m currently working on Some BLockchain Technology Projects,Cryptocurrency,Data-Science , Machine-Learning,Deep-Learning and NLP Projects
+- 🌱 I’m currently learning Data-Science, Machine-Learning, Deep-Learning etc...
+- 👯 I’m looking to collaborate With You on Building some fair AI projects and Helping You With Your Python,Sklearn,Tensorflow,Keras,Computer Vision Projects And Your Bootcamp And College Assigments
 <!--- 🤔 I’m looking for help with -->
-#### - 💬 Ask me about anything Related to these Fields listed above.⚡⚡⚡⚡⚡⚡
+#### - 💬 Ask me about anything Related to the Fields listed above.
 
-#### -📫 How to reach me:
+### -📫 How to reach me:
 - Email : bitingojosaphat@gmail.com
 - WhatsApp : +256703595423
 - RemoteHub : https://www.remotehub.com/josaphat.bitingo
@@ -47,10 +46,10 @@
 
 ### Most Used Languages and Technologies
 <!--![Most Used Languages:](https://img.shields.io/badge/Most%20Ussed%20Languages:%20-%23000.svg?&style=for-the-badge) -->
-![Python](https://img.shields.io/badge/python%20-%233258a8.svg?&style=for-the-badge&logo=python&logoColor=yellow) 
-![Dart](https://img.shields.io/badge/Flutter(Dart)%20-%23d1d7e3.svg?&style=for-the-badge&logo=dart&logoColor=blue)
+![Python](https://img.shields.io/badge/python%20-%233258a8.svg?&style=for-the-badge&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23e3d61b.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20-%23e3541b.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Flutter(Dart)%20-%23d1d7e3.svg?&style=for-the-badge&logo=dart&logoColor=blue)
 <br>
 ![HTML](https://img.shields.io/badge/HTML%205%20-%23de5a02.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS%203%20-%234f0999.svg?&style=for-the-badge&logo=css3&logoColor=white)
