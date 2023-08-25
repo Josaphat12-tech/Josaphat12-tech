@@ -31,15 +31,60 @@
 #### - ⚡ Fun facts: 
 - War is God’s way of teaching Americans geography.😄😄😄
 - My favorite machine at the gym is the vending machine 😄😄😄
+<span align="center">
+ <h1 style = "align: center">Bitingo Josaphat JB 👨‍💻 </h1>
 
-<h2 align="left">👋😄😄😄Welcome To My GitHub Account ⚡⚡⚡⚡⚡⚡</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Josaphat12-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Josaphat12-tech" /> </p>
+[![](https://img.icons8.com/color/32/000000/instagram-new.png)](https://www.instagram.com/introvert_and_lonely_jb)
+[![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/%F0%9D%94%8D%F0%9D%94%AC%F0%9D%94%B0%F0%9D%94%9E%F0%9D%94%AD%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%B1-%F0%9D%94%85%F0%9D%94%A6%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%AB%F0%9D%94%A4%F0%9D%94%AC-b8684a1b9/)
+[![](https://img.icons8.com/color/32/000000/internet--v1.png)](https://bitingo-the-deep-neural-nets.hashnode.dev/)
+[![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/JosaphatBiting3)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</span>
+<br>
+<!-- ![Manas' github stats](https://github-readme-stats.vercel.app/api?username=synapsecode&show_icons=true&theme=radical) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Josaphat12-tech&show_icons=true&locale=en&layout=compact" alt="Josaphat12-tech" /></p><br/>
+<img src="https://raw.githubusercontent.com/th3c0d3br34ker/th3c0d3br34ker/master/code.gif" align="right" alt="Coder GIF" width="480" height="300">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Josaphat12-tech&show_icons=true&locale=en" alt="Josaphat12-tech" /></p><br/>
+### Most Used Languages and Technologies
+<!--![Most Used Languages:](https://img.shields.io/badge/Most%20Ussed%20Languages:%20-%23000.svg?&style=for-the-badge) -->
+![Python](https://img.shields.io/badge/python%20-%233258a8.svg?&style=for-the-badge&logo=python&logoColor=yellow) 
+![Dart](https://img.shields.io/badge/Flutter(Dart)%20-%23d1d7e3.svg?&style=for-the-badge&logo=dart&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23e3d61b.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-%23e3541b.svg?&style=for-the-badge&logo=java&logoColor=white)
+<br>
+![HTML](https://img.shields.io/badge/HTML%205%20-%23de5a02.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%203%20-%234f0999.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![BS](https://img.shields.io/badge/Bootstrap%20-%234f0999.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte%20-%23e3541b.svg?&style=for-the-badge&logo=svelte&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Josaphat12-tech&" alt="Josaphat12-tech" /></p>
+### Social Links
+[![Twitter](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JosaphatBiting3)
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/introvert_and_lonely_jb)
+<br>
+[![Personal Website (New) ](https://img.shields.io/badge/My%20Personal%20Website%20(New)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](https://bitingo-the-deep-neural-nets.hashnode.dev)
+<br>
+
+
+![](https://komarev.com/ghpvc/?username=synapsecode&style=flat-square&color=blueviolet)
+
+<br>
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 17 August 2023 - To: 24 August 2023
+
+Python       12 hrs 43 mins  ██████████████▒░░░░░░░░░░   57.12 %
+Dart         6 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+Markdown     1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+```
+
+<!--END_SECTION:waka-->
+
+
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
