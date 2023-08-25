@@ -61,7 +61,7 @@
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram%20-%23e31b72.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/introvert_and_lonely_jb)
 <br>
-[![Personal Website (New) ](https://img.shields.io/badge/My%20Personal%20Website%20(New)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](https://bitingo-the-deep-neural-nets.hashnode.dev)
+[![Personal Blog-site (New) ](https://img.shields.io/badge/Personal%20Blogsite%20(New)%20-%23595859.svg?&style=for-the-badge&logo=profile&logoColor=white)](https://bitingo-the-deep-neural-nets.hashnode.dev)
 <br>
 
 
