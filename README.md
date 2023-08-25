@@ -1,4 +1,4 @@
-##### Hola there👋, Feel Free To call Me Bitingo Josaphat JB 👨‍💻
+### Hola there👋, feel free to call me **Bitingo Josaphat JB** 👨‍💻
 
 ###### Here are Some Facts To Know about Me :
 
