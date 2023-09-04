@@ -18,7 +18,7 @@
 
 - Linkedin : https://www.linkedin.com/in/josaphat-bitingo-b8684a1b9/
 - Facebook : https://www.facebook.com/josaphat.bitingo
-- IG : @bitingojosaphat
+- IG : @introvert_and_lonely_jb
 - Twitter : @JosaphatBiting3
 
 #### -😄 Hobbies:
